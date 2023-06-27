@@ -1,3 +1,4 @@
+<img width="100%" height="100px" src="https://thumbs.dreamstime.com/b/coding-symbol-concept-word-wooden-cubes-beautiful-yellow-background-business-copy-space-250357115.jpg">
 <h1 align="center">Hi 👋, I'm Nesrine Ayari</h1>
 <h3 align="center">I'm a Full stack developer</h3>
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952kwf4fdvc4l5hyxzk2ce83rkxibskxzmpac22ub5l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
