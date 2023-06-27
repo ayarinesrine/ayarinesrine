@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nesrine</h1>
 <h3 align="center">Full stack developer</h3>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQG7GnrlpoBG9w/article-cover_image-shrink_600_2000/0/1594835668489?e=2147483647&v=beta&t=mF86lNdLR5b2TX-ozWUatJ3PEXVJdB2HuraH3nIr5Ww">
+
 - 📫 How to reach me **ayari.nessrine3@gmail.com**
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952kwf4fdvc4l5hyxzk2ce83rkxibskxzmpac22ub5l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/nesrine ayari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nesrine ayari" height="30" width="40" /></a>
+<a href="https://fb.com/nesrine ayari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nesrine ayari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
