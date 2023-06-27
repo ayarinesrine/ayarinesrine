@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nesrine</h1>
-<h3 align="right">Full stack developer</h3>
-<img align="center" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQG7GnrlpoBG9w/article-cover_image-shrink_600_2000/0/1594835668489?e=2147483647&v=beta&t=mF86lNdLR5b2TX-ozWUatJ3PEXVJdB2HuraH3nIr5Ww">
+<h3 align="center">Full stack developer</h3>
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQG7GnrlpoBG9w/article-cover_image-shrink_600_2000/0/1594835668489?e=2147483647&v=beta&t=mF86lNdLR5b2TX-ozWUatJ3PEXVJdB2HuraH3nIr5Ww">
 - 📫 How to reach me **ayari.nessrine3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
