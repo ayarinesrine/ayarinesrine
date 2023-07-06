@@ -43,9 +43,9 @@
 
 <hr widht="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
-<hr widht="100%">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayarinesrine&show_icons=true&title_color=2067d9&locale=en&layout=compact" alt="ayarinesrine" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayarinesrine&show_icons=true&title_color=2067d9&locale=en&layout=compact" alt="ayarinesrine" /></p>
+<hr widht="100%">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayarinesrine&show_icons=true&title_color=2067d9&text_color=ffffff&bg_color=1f1f1f&locale=en" alt="ayarinesrine" /></p>
 <hr widht="100%">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayarinesrine&theme=dark" alt="ayarinesrine" /></p>
