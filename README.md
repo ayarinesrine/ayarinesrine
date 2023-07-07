@@ -8,6 +8,7 @@
 
 - 📫 How to reach me **ayari.nessrine3@gmail.com**
 <hr widht="100%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +43,6 @@
 
 
 <hr widht="100%">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayarinesrine&show_icons=true&title_color=2067d9&locale=en&layout=compact" alt="ayarinesrine" /></p>
 
