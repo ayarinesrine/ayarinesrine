@@ -1,5 +1,7 @@
 <a href="https://github.com/3ibsi69">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;I%27m+a+Full+stack+developer+💻;from+Tunisia" alt="3ibsi69" /></a>
+    <a href="https://github.com/3ibsi69">"Don't follow your dreams chase them"</a>
+
 <p/>
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952kwf4fdvc4l5hyxzk2ce83rkxibskxzmpac22ub5l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
