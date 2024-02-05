@@ -6,21 +6,15 @@
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952kwf4fdvc4l5hyxzk2ce83rkxibskxzmpac22ub5l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <hr widht="100%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
+
 - 👯 I’m looking to collaborate if **you have a great idea**
 
 - 💬 Ask me about **anything related to MERN stack and related technologies**
 
 - 📫 How to reach me **ayari.nessrine3@gmail.com**
 <hr widht="100%">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
 
-<h3 align="left">:mag_right: Find me on</h3>
-<p align="left">
-
-<a href="[https://fb.com/nesrine ayari](https://www.facebook.com/profile.php?id=100004170435204)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nesrine ayari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nesrine ayari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nesrine ayari" height="30" width="40" /></a>
-</p>
-<hr widht="100%">
 <h2 align="left">Skills:</h2>
 <h3 align="left" color="white">Programming Languages:</h3>
 <p align="left">
