@@ -1,6 +1,6 @@
 <a >
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;I%27m+a+Full+stack+developer+💻;from+Tunisia" alt="nesrine" /></a>
-    <a >"Don't follow your dreams chase them"</a>
+    <a >"Every end is a new beginning"</a>
 
 <p/>
 
