@@ -7,11 +7,9 @@
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952kwf4fdvc4l5hyxzk2ce83rkxibskxzmpac22ub5l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <hr widht="100%">
 
-- 🔭 I’m currently working on [Agexis](https://www.agexis.com/)
 - 👯 I’m looking to collaborate if **you have a great idea**
-
 - 💬 Ask me about **anything related to MERN stack and related technologies**
-
+- 🔭 I’m currently working on [Agexis](https://www.agexis.com/)
 - 📫 How to reach me **ayari.nessrine3@gmail.com**
 <hr widht="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
