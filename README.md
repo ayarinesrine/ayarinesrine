@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate if **you have a great idea**
 - 💬 Ask me about **anything related to MERN stack and related technologies**
-- 🔭 I’m currently working on [Agexis](https://www.agexis.com/){:target="_blank"}
+- 🔭 I’m currently working on <a href="https://www.agexis.com/" target="_blank">Agexis</a>
 - 📫 How to reach me **ayari.nessrine3@gmail.com**
 <hr widht="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
