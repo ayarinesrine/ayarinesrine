@@ -12,6 +12,29 @@
 - 🔭 I’m currently working on <a href="https://global-reno.fr/" target="_blank">Reno Global</a>
 - 📫 How to reach me **ayari.nessrine3@gmail.com**
 <hr widht="100%">
+## My Projects
+
+ <!-- <table width="100%">
+  <tr>
+    <td align="center">Logo</td>
+    <td align="center">Project Name</td>
+    <td align="center">Repository Link</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="link_to_project_one_logo" alt="Project One Logo"></td>
+    <td align="center">Project One</td>
+    <td align="center"><a href="link_to_project_one_repository">Project One Repository</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="link_to_project_two_logo" alt="Project Two Logo"></td>
+    <td align="center">Project Two</td>
+    <td align="center"><a href="link_to_project_two_repository">Project Two Repository</a></td>
+  </tr>
+
+</table> -->
+
+
+<hr width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
 
 <h3 align="left">Frontend Development:</h3>
