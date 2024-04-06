@@ -12,6 +12,17 @@
  - 🔭 I’m currently working on [Reno Global](https://global-reno.fr/)
  - 📫 How to reach me **ayari.nessrine3@gmail.com**
  - 👨‍💻 Get a peek at a few of my projects**
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 0 0 33.33%; max-width: 33.33%;">
+        1. [Project 1](Link_to_Project_1)
+    </div>
+    <div style="flex: 0 0 33.33%; max-width: 33.33%;">
+        2. [Project 2](Link_to_Project_2)
+    </div>
+    <div style="flex: 0 0 33.33%; max-width: 33.33%;">
+        3. [Project 3](Link_to_Project_3)
+    </div>
+</div>
     
 <hr widht="100%">
 
