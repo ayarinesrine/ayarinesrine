@@ -16,7 +16,7 @@
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
     <div style="flex: 0 0 33.33%; max-width: 33.33%; text-align: center;">
-        [![Project 1 Logo](Link_to_Project_1_Logo)](Link_to_Project_1)
+        [![Project 1 Logo](https://luxury-and-cosy.fr/assets/Logo.png)](Link_to_Project_1)
         <p>Project 1</p>
     </div>
     <div style="flex: 0 0 33.33%; max-width: 33.33%; text-align: center;">
