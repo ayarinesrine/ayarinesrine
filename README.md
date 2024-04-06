@@ -12,7 +12,7 @@
  - 🔭 I’m currently working on [Reno Global](https://global-reno.fr/)
  - 📫 How to reach me **ayari.nessrine3@gmail.com**
  - 👨‍💻 Get a peek at a few of my projects**
-<p align="left">   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+<p align="left">   <a href="https://luxury-and-cosy.fr/" target="_blank" rel="noreferrer"> <img src="https://luxury-and-cosy.fr/assets/Logo.png" alt="bootstrap" width="40" height="40"/> </a> </p>
  
 
 
