@@ -12,47 +12,12 @@
  - 🔭 I’m currently working on [Reno Global](https://global-reno.fr/)
  - 📫 How to reach me **ayari.nessrine3@gmail.com**
  - 👨‍💻 Get a peek at a few of my projects**
-**My Projects:**
-
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <div style="flex: 0 0 33.33%; max-width: 33.33%; text-align: center;">
-        [![Project 1 Logo](https://luxury-and-cosy.fr/assets/Logo.png)](Link_to_Project_1)
-        <p>Project 1</p>
-    </div>
-    <div style="flex: 0 0 33.33%; max-width: 33.33%; text-align: center;">
-        [![Project 2 Logo](Link_to_Project_2_Logo)](Link_to_Project_2)
-        <p>Project 2</p>
-    </div>
-    <div style="flex: 0 0 33.33%; max-width: 33.33%; text-align: center;">
-        [![Project 3 Logo](Link_to_Project_3_Logo)](Link_to_Project_3)
-        <p>Project 3</p>
-    </div>
-</div>
-
-    
-<hr widht="100%">
-
- <!-- <table width="100%">
-  <tr>
-    <td align="center">Logo</td>
-    <td align="center">Project Name</td>
-    <td align="center">Repository Link</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="link_to_project_one_logo" alt="Project One Logo"></td>
-    <td align="center">Project One</td>
-    <td align="center"><a href="link_to_project_one_repository">Project One Repository</a></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="link_to_project_two_logo" alt="Project Two Logo"></td>
-    <td align="center">Project Two</td>
-    <td align="center"><a href="link_to_project_two_repository">Project Two Repository</a></td>
-  </tr>
-
-</table> 
+<p align="left">   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+ 
 
 
-<hr width="100%">-->
+
+<hr width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
 
 <h3 align="left">Frontend Development:</h3>
