@@ -11,7 +11,7 @@
     - 💬 Ask me about **anything related to MERN stack and related technologies**
     - 🔭 I’m currently working on <a href="https://global-reno.fr/" target="_blank">Reno Global</a>
     - 📫 How to reach me **ayari.nessrine3@gmail.com**
-    - 👨‍💻 Get a peek at a few of my projects  : 
+    - 👨‍💻 Get a peek at a few of my projects**
     
 <hr widht="100%">
 
