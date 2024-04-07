@@ -16,7 +16,8 @@
 <p align="center">
     <a href="https://luxury-and-cosy.com/" target="blank" rel="noreferrer">
         <img style="margin-right: 30px" src="https://luxury-and-cosy.com/assets/images/logofooter.png"  width="80" height="50"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://luxury-and-cosy.fr/" {:target="_blank"} rel="noreferrer">
         <img style="margin-right: 30px" src="https://luxury-and-cosy.fr/assets/Logo.png"  width="50" height="50"/>
     </a>
