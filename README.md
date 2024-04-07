@@ -14,7 +14,7 @@
  - 📫 How to reach me **ayari.nessrine3@gmail.com**
  - 👨‍💻 Get a peek at a few of my projects**
 <p align="center">
-    <a href="https://luxury-and-cosy.com/" target="blank" rel="noreferrer">
+    <a href="https://luxury-and-cosy.com/"  target="_blank" rel="noreferrer">
         <img  src="https://luxury-and-cosy.com/assets/images/logofooter.png"  width="80" height="50"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
