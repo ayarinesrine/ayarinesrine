@@ -12,7 +12,7 @@
  - 💬 Ask me about **anything related to MERN stack and related technologies**
  - 🔭 I’m currently working on [Reno Global](https://global-reno.fr/)
  - 📫 How to reach me **ayari.nessrine3@gmail.com**
- - 👨‍💻 Get a peek at a few of my projects**
+ - 👨‍💻 Get a peek at a few of my projects :
 <p align="center">
     <a href="https://luxury-and-cosy.com/"  target="_blank" rel="noreferrer">
         <img  src="https://luxury-and-cosy.com/assets/images/logofooter.png"  width="80" height="50"/>
