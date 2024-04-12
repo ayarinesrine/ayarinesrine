@@ -14,16 +14,16 @@
  - 📫 How to reach me **ayari.nessrine3@gmail.com**
  - 👨‍💻 Get a peek at a few of my projects :
 <p align="center">
-    <a href="https://luxury-and-cosy.com/"  target="_blank" rel="noreferrer">
-        <img  src="https://luxury-and-cosy.com/assets/images/logofooter.png"  width="80" height="50"/>
+    <a href="https://luxury-and-cosy.com/" target="_blank" rel="noreferrer">
+        <img src="https://luxury-and-cosy.com/assets/images/logofooter.png" width="80" height="50"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://luxury-and-cosy.fr/"  target="_blank" rel="noreferrer">
-        <img  src="https://luxury-and-cosy.fr/assets/Logo.png"  width="50" height="50"/>
+    <a href="https://luxury-and-cosy.fr/" target="_blank" rel="noreferrer">
+        <img src="https://luxury-and-cosy.fr/assets/Logo.png" width="50" height="50"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.agexis.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.agexis.com/wp-content/uploads/2023/06/logo-agex.png"  width="80" height="50"/>
+        <img src="https://www.agexis.com/wp-content/uploads/2023/06/logo-agex.png" width="80" height="50"/>
     </a>
 </p>
 
