@@ -1,5 +1,5 @@
 <a >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=FB78A0&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=48CDDC&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
     <a >"Every end is a new beginning"</a>
 
 <p/>
@@ -10,8 +10,8 @@
 <hr widht="100%">
 
  - 💬 Ask me about **anything related to MERN stack and related technologies**
- - 🔭 I’m currently working on [Reno Global](https://global-reno.fr/)
- - 📫 How to reach me **ayari.nessrine3@gmail.com**
+ - 🔭 I’m currently working on <strong style="color:red;">[Reno Global](https://global-reno.fr/)</strong>
+ - 📫 How to reach me "ayari.nessrine3@gmail.com"
  - 👨‍💻 Get a peek at a few of my projects :
 <p align="center">
         
