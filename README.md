@@ -1,10 +1,10 @@
 <a >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=FB78A0&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
     <a >"Every end is a new beginning"</a>
 
 <p/>
 
-<img align="right" alt="coding" width="310" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952kwf4fdvc4l5hyxzk2ce83rkxibskxzmpac22ub5l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="310" src="https://www.shecodes.io/assets/stickers/Coding%20Cat-33a4c846a433857177d26ef9f045782650a52602b8e1bfc1a58058625cf90029.gif">
 
 
 <hr widht="100%">
