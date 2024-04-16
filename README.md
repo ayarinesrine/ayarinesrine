@@ -19,7 +19,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://global-reno.com/assets/logo.png" width="80" height="50"/>
+        <img src="https://global-reno.com/assets/logo.png" width="100" height="50"/>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://luxury-and-cosy.fr/" onclick="window.open(this.href, '_blank'); return false;">
