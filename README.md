@@ -92,12 +92,12 @@
     <th colspan="10" align="left" style="color:white">Programming Languages:</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
@@ -138,17 +138,17 @@
     <th colspan="10" align="left">Backend Development:</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="3">
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://skills.thijs.gg/icons?i=express" alt="express" height="45"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" colspan="4">
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs" height="45"/>
       </a>
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="3">
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" height="45"/>
       </a>
@@ -158,12 +158,12 @@
     <th colspan="10" align="left">Mobile App Development:</th>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="5">
       <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="80" height="40"/>
       </a>
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="5">
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="40"/>
       </a>
@@ -173,8 +173,11 @@
     <th colspan="10" align="left">Database:</th>
   </tr>
   <tr>
-    <td colspan="4" align="center">
-      <img src="https://skills.thijs.gg/icons?i=mongodb,mysql" alt="MongoDB & MySQL"/>
+    <td align="center" colspan="5">
+      <img src="https://skills.thijs.gg/icons?i=mysql" alt="MongoDB & MySQL"/>
+    </td>
+       <td align="center" colspan="5">
+      <img src="https://skills.thijs.gg/icons?i=mongodb" alt="MongoDB & MySQL"/>
     </td>
   </tr>
   <tr>
@@ -186,17 +189,17 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
       </a>
