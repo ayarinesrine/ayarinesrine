@@ -8,6 +8,7 @@
 
 
 <hr widht="100%">
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
 
  - 💬 Ask me about **anything related to MERN stack and related technologies**
  - 🔭 I’m currently working on <strong style="color:red;">[Reno Global](https://global-reno.fr/)</strong>
@@ -34,7 +35,7 @@
 
 
 <hr width="100%">
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
+
 
 
 <table style="width:100%" align="center">
