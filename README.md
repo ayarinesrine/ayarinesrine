@@ -12,6 +12,7 @@
 
  - 💬 Ask me about **anything related to MERN stack and related technologies**
  - 🔭 I’m currently working on <strong style="color:red;">[Reno Global](https://global-reno.fr/)</strong>
+ - 🌱 I'm currently learning DevOps
  - 📫 How to reach me "ayari.nessrine3@gmail.com"
  - 👨‍💻 Get a peek at a few of my projects :
 <table style="width:100%" align="left">
