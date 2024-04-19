@@ -63,7 +63,7 @@
       </a>
     </td>
   
- <td align="center" colspan="2">
+ <td align="center" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/>
     </td>
     <td align="center">
@@ -89,7 +89,7 @@
     </td>
   </tr>
   <tr>
-    <th colspan="4" align="left" style="color:white">Programming Languages:</th>
+    <th colspan="10" align="left" style="color:white">Programming Languages:</th>
   </tr>
   <tr>
     <td align="center">
@@ -112,9 +112,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+ 
+ <td align="center">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       </a>
@@ -136,7 +135,7 @@
     </td>
   </tr>
   <tr>
-    <th colspan="4" align="left">Backend Development:</th>
+    <th colspan="10" align="left">Backend Development:</th>
   </tr>
   <tr>
     <td align="center">
@@ -156,7 +155,7 @@
     </td>
   </tr>
   <tr>
-    <th colspan="4" align="left">Mobile App Development:</th>
+    <th colspan="10" align="left">Mobile App Development:</th>
   </tr>
   <tr>
     <td align="center" colspan="2">
@@ -171,7 +170,7 @@
     </td>
   </tr>
   <tr>
-    <th colspan="4" align="left">Database:</th>
+    <th colspan="10" align="left">Database:</th>
   </tr>
   <tr>
     <td colspan="4" align="center">
@@ -179,7 +178,7 @@
     </td>
   </tr>
   <tr>
-    <th colspan="4" align="left">Other:</th>
+    <th colspan="10" align="left">Other:</th>
   </tr>
   <tr>
     <td align="center">
@@ -202,9 +201,8 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+
+ <td align="center">
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
       </a>
