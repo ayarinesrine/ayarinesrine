@@ -150,7 +150,7 @@
     </td>
     <td align="center" colspan="3">
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" height="45"/>
+        <img src="https://skills.thijs.gg/icons?i=laravel" alt="laravel" height="45"/>
       </a>
     </td>
   </tr>
