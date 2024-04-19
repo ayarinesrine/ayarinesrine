@@ -1,4 +1,3 @@
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=ayarinesrine&label=Profile%20views&color=000000&style=plastic" alt="ayarinesrine" /> </p>
 <a >
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=48CDDC&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
     <a >"Every end is a new beginning"</a>
