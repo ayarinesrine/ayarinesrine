@@ -138,26 +138,7 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <th colspan="10" align="left">Backend Development:</th>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skills.thijs.gg/icons?i=express" alt="express" height="45"/>
-      </a>
-    </td>
-    <td align="center" colspan="4">
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs" height="45"/>
-      </a>
-    </td>
-    <td align="center" colspan="3">
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skills.thijs.gg/icons?i=laravel" alt="laravel" height="45"/>
-      </a>
-    </td>
-  </tr>
+ 
   <tr>
     <th colspan="10" align="left">Mobile App Development:</th>
   </tr>
