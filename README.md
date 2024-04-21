@@ -23,6 +23,9 @@
     <td colspan="10" align="left"><a href="https://luxury-and-cosy.fr/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://luxury-and-cosy.fr/assets/Logo.png" width="50" height="50"/>
     </a></td>
+        <td colspan="10" align="left"> <a href="https://luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://luxury-and-cosy.com/assets/images/logofooter.png" width="80" height="50"/>
+          </a></td>
 <td colspan="10" align="left"><a href="https://www.agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://www.agexis.com/wp-content/uploads/2023/06/logo-agex.png" width="80" height="50"/>
     </a>   </td>
