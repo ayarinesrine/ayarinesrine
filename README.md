@@ -18,7 +18,7 @@
 <table style="width:100%" align="left">
   <tr>
     <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://global-reno.com/assets/reno-global-logo.png" width="90" height="35"/>
+        <img src="https://global-reno.com/assets/reno-global-logo.png" width="83" height="32"/>
           </a></td>
     <td colspan="10" align="left"><a href="https://luxury-and-cosy.fr/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://luxury-and-cosy.fr/assets/Logo.png" width="50" height="50"/>
