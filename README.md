@@ -187,10 +187,10 @@
     <td align="center" colspan="3">
       <img src="https://skills.thijs.gg/icons?i=mysql" alt="MongoDB & MySQL"/>
     </td>
-       <td align="center" colspan="3">
+       <td align="center" colspan="4">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/>
     </td>
-       <td align="center" colspan="4">
+       <td align="center" colspan="3">
       <img src="https://skills.thijs.gg/icons?i=mongodb" alt="MongoDB & MySQL"/>
     </td>
   </tr>
