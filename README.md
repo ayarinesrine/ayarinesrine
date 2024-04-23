@@ -184,10 +184,13 @@
     <th colspan="10" align="left">Database:</th>
   </tr>
   <tr>
-    <td align="center" colspan="5">
+    <td align="center" colspan="3">
       <img src="https://skills.thijs.gg/icons?i=mysql" alt="MongoDB & MySQL"/>
     </td>
-       <td align="center" colspan="5">
+       <td align="center" colspan="3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    </td>
+       <td align="center" colspan="4">
       <img src="https://skills.thijs.gg/icons?i=mongodb" alt="MongoDB & MySQL"/>
     </td>
   </tr>
