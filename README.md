@@ -30,7 +30,7 @@
 
 
 
-<td colspan="10" align="left"><a href="https://https://www.agexis-industrie.com/" onclick="window.open(this.href, '_blank'); return false;">
+<td colspan="10" align="left"><a href="https://agexis-industrie.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://www.agexis.com/wp-content/uploads/2023/06/logo-agex.png" width="80" height="50"/>
     </a>   </td>
    
