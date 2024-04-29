@@ -105,8 +105,42 @@
   </tr>
 
   <tr>
-  
-<td align="center">
+ <td align="center" >
+      <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="80" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="40"/>
+      </a>
+    </td>
+    <td align="center" >
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://camo.githubusercontent.com/29627c5817449d646aa67481b9168eed5730e8ba7f9f63fb2b73c8b1cd760647/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" title="express js" alt="express" height="45"/>
+      </a>
+    </td>
+    <td align="center" >
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs" height="45"/>
+      </a>
+    </td>
+    <td align="center" "  >
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://skills.thijs.gg/icons?i=laravel" alt="laravel" height="45"/>
+      </a>
+    </td>
+
+ <td align="center">
+      <img src="https://skills.thijs.gg/icons?i=mysql" alt="MongoDB & MySQL"/>
+    </td>
+       <td align="center" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" />
+    </td>
+       <td align="center">
+      <img src="https://skills.thijs.gg/icons?i=mongodb" alt="MongoDB & MySQL"/>
+    </td>
+ <td align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       </a>
@@ -127,7 +161,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
       </a>
     </td>
-    <td align="center" >
+
+</tr>
+
+  <tr>
+  
+
+ <td align="center" >
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
       </a>
@@ -168,49 +208,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       </a>
     </td>
- </tr>
-
-  <tr>
- <td align="center" >
-      <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="80" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="40"/>
-      </a>
-    </td>
-    <td align="center" >
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skills.thijs.gg/icons?i=express" alt="express" height="45"/>
-      </a>
-    </td>
-    <td align="center" >
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skills.thijs.gg/icons?i=nodejs" alt="nodejs" height="45"/>
-      </a>
-    </td>
-    <td align="center" "  >
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skills.thijs.gg/icons?i=laravel" alt="laravel" height="45"/>
-      </a>
-    </td>
-
- <td align="center">
-      <img src="https://skills.thijs.gg/icons?i=mysql" alt="MongoDB & MySQL"/>
-    </td>
-       <td align="center" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" />
-    </td>
-       <td align="center">
-      <img src="https://skills.thijs.gg/icons?i=mongodb" alt="MongoDB & MySQL"/>
-    </td>
- 
-  <td align="center"  colspan="2" ><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" 
+      <td align="center"  colspan="2" ><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" 
        height="40"/> </a></td>
        <td align="center"  colspan="2"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></td>
-     </tr>
+ </tr>
 
 </table>
 
