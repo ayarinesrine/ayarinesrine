@@ -127,7 +127,7 @@
     </td>
     <td align="center" "  >
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skills.thijs.gg/icons?i=laravel" alt="laravel" height="45"/>
+        <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="45"/>
       </a>
     </td>
 
