@@ -28,8 +28,8 @@
           </a></td>
 
 
-<td colspan="10" align="left"><a href="https://agexis-industrie.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://agexis-industrie.com/assets/icons/logo-agex.webp" width="80" height="50"/>
+<td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="80" height="50"/>
     </a>   </td>
    
   </tr></table>
