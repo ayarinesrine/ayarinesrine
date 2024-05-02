@@ -132,13 +132,13 @@
     </td>
 
  <td align="center">
-      <img src="https://skills.thijs.gg/icons?i=mysql" alt="MongoDB & MySQL"/>
+      <img src="https://skills.thijs.gg/icons?i=mysql" alt="MySQL"/>
     </td>
        <td align="center" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" />
     </td>
        <td align="center">
-      <img src="https://skills.thijs.gg/icons?i=mongodb" alt="MongoDB & MySQL"/>
+      <img src="https://skills.thijs.gg/icons?i=mongodb" alt="MongoDB"/>
     </td>
  <td align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
