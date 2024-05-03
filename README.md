@@ -138,7 +138,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" />
     </td>
        <td align="center">
-      <img src="https://skills.thijs.gg/icons?i=mongodb" alt="MongoDB"/>
+      <img src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" alt="MongoDB" height="40"/>
     </td>
  <td align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
