@@ -132,7 +132,7 @@
     </td>
 
  <td align="center">
-      <img src="https://skills.thijs.gg/icons?i=mysql" alt="MySQL"/>
+      <img src="https://www.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL"/>
     </td>
        <td align="center" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" />
