@@ -51,7 +51,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
       </a>
     </td>
@@ -62,7 +62,7 @@
  </td>
   
  <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  title="Nextjs"/>
     </td>
      <td align="center" >  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
      </td>
