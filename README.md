@@ -107,12 +107,12 @@
   <tr>
  <td align="center" >
       <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="80" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" title="Ionic" width="80" height="40"/>
       </a>
     </td>
     <td align="center">
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35" height="40"/>
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" title="React native" width="35" height="40"/>
       </a>
     </td>
     <td align="center" >
