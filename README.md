@@ -122,7 +122,7 @@
     </td>
     <td align="center" >
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/nodejs" alt="nodejs" height="45"/>
+        <img src="https://avatars.githubusercontent.com/nodejs" alt="nodejs" title="Nodejs" height="45"/>
       </a>
     </td>
     <td align="center" "  >
