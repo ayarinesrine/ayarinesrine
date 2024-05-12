@@ -132,10 +132,10 @@
     </td>
 
  <td align="center">
-      <img src="https://www.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" height="40"/>
+      <img src="https://www.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" height="40" title="MySQL"/>
     </td>
        <td align="center" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" title="Oracle" />
     </td>
        <td align="center">
       <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB"  width="40" title="MongoDB" />
