@@ -11,7 +11,7 @@
 
 
  - 💬 Ask me about **anything related to MERN stack and related technologies**
- -  🌱 I'm currently learning DevOps with Docker
+ -  🌱 I'm a cloud computing student learning DevOps
  - 🔭 I’m currently working on <strong style="color:red;">[Giovanni Juvara](https://luxury-and-cosy.com/)</strong>
  - 📫 How to reach me ayari.nessrine3@gmail.com
  - 👨‍💻 Get a peek at a few of my projects :
