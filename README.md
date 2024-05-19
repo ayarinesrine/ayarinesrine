@@ -177,7 +177,7 @@
     </td>
     <td align="center">
       <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" titre="php" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="php" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
