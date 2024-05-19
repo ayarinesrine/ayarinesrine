@@ -196,7 +196,7 @@
       </a>
     </td>
     <td align="center" >
-     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" titre="Jenkins" width="40" height="40"/> </a>
     </td>
 
  <td align="center">
