@@ -192,7 +192,7 @@
     </td>
     <td align="center" >
       <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" titre="Postman" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" title="Postman" height="40"/>
       </a>
     </td>
     <td align="center" >
