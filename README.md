@@ -182,12 +182,12 @@
     </td>
     <td align="center">
       <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" titre="Matlab" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" title="Matlab" width="40" height="40"/>
       </a>
     </td>
     <td align="center" >
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" titre="Figme" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" title="Figme" height="40"/>
       </a>
     </td>
     <td align="center" >
