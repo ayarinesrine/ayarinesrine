@@ -208,6 +208,11 @@
 <td align="center"  ><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" title="AWS"
        height="40"/> </a></td>
         <td align="center"  ><a href="https://www.redhat.com/fr" target="_blank" rel="noreferrer"> <img title="Redhat" src="https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo--on-dark.svg" alt="azure" width="60" height="30"/> </a></td> <td align="center"  ><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img title="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  alt="kubernetes" width="40" height="40"/> </a> </td>
+         <td align="center">
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" width="40" height="40"/>
+      </a>
+</td>
  </tr>
 
 </table>
