@@ -199,10 +199,7 @@
      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="Jenkins" width="40" height="40"/> </a>
     </td>
 
- <td align="center">
-   
-</td>
-    <td align="center" >
+ <td align="center" >
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  title="Linux" alt="linux" width="40" height="40"/>
       </a>
