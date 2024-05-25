@@ -200,10 +200,8 @@
     </td>
 
  <td align="center">
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" width="40" height="40"/>
-      </a>
-    </td>
+   
+</td>
     <td align="center" >
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  title="Linux" alt="linux" width="40" height="40"/>
