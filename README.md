@@ -20,9 +20,9 @@
     <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://global-reno.com/assets/reno-global-logo.png" width="83" height="32"/>
           </a></td>  <td colspan="10" align="left"> <a href="http://www.graphiccentertn.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://gregarious-croissant-0955d8.netlify.app/assets/img/322375471_700083181719041_8413488649932158795_n.png" width="100"  height="40"/>
+           <img src="https://deepskyblue-peafowl-553838.hostingersite.com/assets/logo3.png" width="100"  height="40"/>
           </a></td>
-    <td colspan="10" align="left"><a href="https://luxury-and-cosy.fr/" onclick="window.open(this.href, '_blank'); return false;">
+    <td colspan="10" align="left"><a href="https://deepskyblue-peafowl-553838.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://luxury-and-cosy.fr/assets/Logo.png" width="50" height="50"/>
     </a></td>
      
