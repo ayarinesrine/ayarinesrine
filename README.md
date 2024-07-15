@@ -18,26 +18,26 @@
 <table style="width:100%" align="left">
   <tr>
        <td colspan="10" align="left"> <a href="https://deepskyblue-peafowl-553838.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://deepskyblue-peafowl-553838.hostingersite.com/assets/logo3.png" width="50"  height="70"/>
+           <img src="https://deepskyblue-peafowl-553838.hostingersite.com/assets/logo3.png" width="40"  height="60"/>
           </a></td>
 
   <td colspan="10" align="left"> <a href="https://wheat-porpoise-212867.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://wheat-porpoise-212867.hostingersite.com/assets/logo-op.png" width="70"  height="60"/>
+           <img src="https://wheat-porpoise-212867.hostingersite.com/assets/logo-op.png" width="60"  height="50"/>
           </a></td>
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://global-reno.com/assets/reno-global-logo.png" width="83" height="32"/>
+        <img src="https://global-reno.com/assets/reno-global-logo.png" width="73" height="28"/>
           </a></td> 
     <td colspan="10" align="left"><a href="https://luxury-and-cosy.fr" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://luxury-and-cosy.fr/assets/Logo.png" width="50" height="50"/>
+        <img src="https://luxury-and-cosy.fr/assets/Logo.png" width="40" height="40"/>
     </a></td>
      
 <td colspan="10" align="left"> <a href="https://luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://luxury-and-cosy.com/assets/images/logofooter.png" width="80" height="50"/>
+           <img src="https://luxury-and-cosy.com/assets/images/logofooter.png" width="70" height="40"/>
           </a></td>
 
 
 <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="70" height="50"/>
+        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
     </a>   </td>
    
   </tr></table>
