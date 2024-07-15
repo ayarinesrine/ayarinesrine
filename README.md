@@ -22,7 +22,7 @@
           </a></td>
 
   <td colspan="10" align="left"> <a href="https://wheat-porpoise-212867.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://wheat-porpoise-212867.hostingersite.com/assets/logo-op.png" width="50"  height="70"/>
+           <img src="https://wheat-porpoise-212867.hostingersite.com/assets/logo-op.png" width="70"  height="60"/>
           </a></td>
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://global-reno.com/assets/reno-global-logo.png" width="83" height="32"/>
