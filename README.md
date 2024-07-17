@@ -17,8 +17,8 @@
  - 👨‍💻 Get a peek at a few of my projects :
 <table style="width:100%" align="left">
   <tr>
-       <td colspan="10" align="left"> <a href="https://deepskyblue-peafowl-553838.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://deepskyblue-peafowl-553838.hostingersite.com/assets/logo3.png" width="40"  height="60"/>
+       <td colspan="10" align="left"> <a href="https://lavenderblush-hyena-365404.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://lavenderblush-hyena-365404.hostingersite.com/assets/images/MesMures-logo.png" width="70"  height="25"/>
           </a></td>
 
   <td colspan="10" align="left"> <a href="https://wheat-porpoise-212867.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
