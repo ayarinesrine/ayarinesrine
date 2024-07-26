@@ -21,8 +21,8 @@
            <img src="https://lavenderblush-hyena-365404.hostingersite.com/assets/images/MesMures-logo.png" width="70"  height="25"/>
           </a></td>
 
-  <td colspan="10" align="left"> <a href="https://wheat-porpoise-212867.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://wheat-porpoise-212867.hostingersite.com/assets/logo-op.png" width="60"  height="50"/>
+  <td colspan="10" align="left"> <a href="https://open-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://open-mur.fr/assets/logo-op.png" width="60"  height="50"/>
           </a></td>
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://global-reno.com/assets/reno-global-logo.png" width="73" height="28"/>
