@@ -31,8 +31,8 @@
         <img src="https://luxury-and-cosy.fr/assets/Logo.png" width="40" height="40"/>
     </a></td>
      
-<td colspan="10" align="left"> <a href="https://muretremie.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="http://muretremie.fr/wp-content/uploads/2023/06/Objet-dynamique-vectoriel.png" width="60" height="40"/>
+<td colspan="10" align="left"> <a href="https://eneahome.f" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://eneahome.fr/icons/logo.png" width="60" height="40"/>
           </a></td>
 
 
