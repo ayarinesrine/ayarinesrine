@@ -48,8 +48,8 @@
           <td colspan="10" align="left"> <a href="https://muretremie.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://muretremie.fr/assets/images/logo-mur-et-remie.webp" width="60" height="40"/>
           </a></td>
-          <td colspan="10" align="left"> <a href="https://luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://luxury-and-cosy.com/assets/images/logofooter.png" width="60" height="40"/>
+          <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.mesmurs.fr/wp-content/uploads/2018/12/Mesmurs-new.png" width="60" height="40"/>
           </a></td>
       
   </tr>
