@@ -36,9 +36,7 @@
           </a></td>
 
 
-<td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
-    </a>   </td>
+
    
   </tr> 
   <tr>
@@ -51,6 +49,12 @@
           <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.mesmurs.fr/wp-content/uploads/2018/12/Mesmurs-new.png" width="60" height="40"/>
           </a></td>
+             <td colspan="10" align="left"> <a href="https://deepskyblue-peafowl-553838.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://deepskyblue-peafowl-553838.hostingersite.com/assets/logo3.png" width="60" height="40"/>
+          </a></td>
+          <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
+    </a>   </td>
       
   </tr>
   
