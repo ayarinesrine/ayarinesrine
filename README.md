@@ -40,7 +40,21 @@
         <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
     </a>   </td>
    
-  </tr> <tr>hello</tr></table>
+  </tr> 
+  <tr>
+<td colspan="10" align="left"> <a href="https://luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://luxury-and-cosy.com/assets/images/logofooter.png" width="60" height="40"/>
+          </a></td>
+          <td colspan="10" align="left"> <a href="https://muretremie.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://muretremie.fr/assets/images/logo-mur-et-remie.webp" width="60" height="40"/>
+          </a></td>
+          <td colspan="10" align="left"> <a href="https://luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://luxury-and-cosy.com/assets/images/logofooter.png" width="60" height="40"/>
+          </a></td>
+      
+  </tr>
+  
+  </table>
 
 
 
