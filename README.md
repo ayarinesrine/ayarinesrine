@@ -19,8 +19,8 @@
 
  <tr>
 
- <td colspan="10" align="left"> <a href="https://muretremie.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://muretremie.fr/assets/images/logo-mur-et-remie.webp" width="50" height="40"/>
+ <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40"/>
           </a></td>
  <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
