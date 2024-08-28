@@ -26,7 +26,7 @@
         <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
     </a>   </td>
 <td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://eneahome.fr/icons/logo.png" width="60" height="40"/>
+           <img src="https://www.eneahome.com/icons/logo.png" width="60" height="40"/>
           </a></td>
 
  <td colspan="10" align="left"> <a href="https://deepskyblue-peafowl-553838.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
