@@ -25,14 +25,14 @@
  <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
     </a>   </td>
-<td colspan="10" align="left"> <a href="https://eneahome.fr" onclick="window.open(this.href, '_blank'); return false;">
+<td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://eneahome.fr/icons/logo.png" width="60" height="40"/>
           </a></td>
 
  <td colspan="10" align="left"> <a href="https://deepskyblue-peafowl-553838.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://deepskyblue-peafowl-553838.hostingersite.com/assets/logo3.png" width="40" align="center" height="50"/>
           </a></td> 
-          <td colspan="10" align="left"><a href="https://luxury-and-cosy.fr" onclick="window.open(this.href, '_blank'); return false;">
+          <td colspan="10" align="left"><a href="https://luxury-and-cosy.com" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://luxury-and-cosy.fr/assets/Logo.png" width="40" height="40"/>
     </a></td>
           
@@ -43,13 +43,13 @@
            <img src="https://darkred-echidna-655124.hostingersite.com/assets/images/logo.png" width="70"  height="35"/>
           </a></td>
 
-  <td colspan="10" align="left"> <a href="https://open-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
+  <td colspan="10" align="left"> <a href="https://open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://open-mur.fr/assets/logo-op.png" width="60"  height="50"/>
           </a></td>
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://global-reno.com/assets/reno-global-logo.png" width="73" height="28"/>
           </a></td> 
- <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
+ <td colspan="10" align="left"> <a href="https://www.mesmurs.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.mesmurs.fr/wp-content/uploads/2018/12/Mesmurs-new.png" width="60" height="25"/>
           </a></td>
   
