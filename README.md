@@ -43,8 +43,8 @@
            <img src="https://darkred-echidna-655124.hostingersite.com/assets/images/logo.png" width="70"  height="35"/>
           </a></td>
 
-  <td colspan="10" align="left"> <a href="https://open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://open-mur.fr/assets/logo-op.png" width="60"  height="50"/>
+  <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.open-mur.com/assets/logo-op.png" width="60"  height="50"/>
           </a></td>
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://global-reno.com/assets/reno-global-logo.png" width="73" height="28"/>
