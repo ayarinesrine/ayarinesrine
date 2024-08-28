@@ -49,8 +49,8 @@
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://global-reno.com/assets/reno-global-logo.png" width="73" height="28"/>
           </a></td> 
- <td colspan="10" align="left"> <a href="https://www.mesmurs.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.mesmurs.fr/wp-content/uploads/2018/12/Mesmurs-new.png" width="60" height="25"/>
+ <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.png" width="60" height="25"/>
           </a></td>
   
  
