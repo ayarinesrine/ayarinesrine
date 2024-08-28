@@ -32,8 +32,8 @@
  <td colspan="10" align="left"> <a href="https://deepskyblue-peafowl-553838.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://deepskyblue-peafowl-553838.hostingersite.com/assets/logo3.png" width="40" align="center" height="50"/>
           </a></td> 
-          <td colspan="10" align="left"><a href="https://luxury-and-cosy.com" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://luxury-and-cosy.fr/assets/Logo.png" width="40" height="40"/>
+          <td colspan="10" align="left"><a href="https://www.luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://www.luxury-and-cosy.com/assets/Logo.png" width="40" height="40"/>
     </a></td>
           
       
