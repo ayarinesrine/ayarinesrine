@@ -30,7 +30,7 @@
           </a></td>
 
  <td colspan="10" align="left"> <a href="https://www.ab-engineering.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.ab-engineering.fr/assets/logo.webp" width="40" align="center" height="50"/>
+           <img src="https://www.ab-engineering.fr/assets/logo.png" width="40" align="center" height="50"/>
           </a></td> 
           <td colspan="10" align="left"><a href="https://www.luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://www.luxury-and-cosy.com/assets/Logo.webp" width="40" height="40"/>
