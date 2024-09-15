@@ -40,7 +40,7 @@
   </tr>
   <tr>
        <td colspan="10" align="left"> <a href="https://ab-pro.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://ab-pro.fr/assets/images/logo.png" width="70"  height="35"/>
+           <img src="https://ab-pro.fr/assets/images/logo.webp" width="70"  height="35"/>
           </a></td>
 
   <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
