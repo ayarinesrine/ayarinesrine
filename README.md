@@ -33,7 +33,7 @@
            <img src="https://www.ab-engineering.fr/assets/logo3.png" width="40" align="center" height="50"/>
           </a></td> 
           <td colspan="10" align="left"><a href="https://www.luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://www.luxury-and-cosy.com/assets/Logo.png" width="40" height="40"/>
+        <img src="https://www.luxury-and-cosy.com/assets/Logo.webp" width="40" height="40"/>
     </a></td>
           
       
@@ -55,7 +55,7 @@
   
  
   <td colspan="10" align="left"> <a href="https://www.giovanni-juvara.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.giovanni-juvara.com/assets/images/logofooter.png" width="60" height="40"/>
+           <img src="https://www.giovanni-juvara.com/assets/images/logofooter.webp" width="60" height="40"/>
           </a></td>   
 
 
