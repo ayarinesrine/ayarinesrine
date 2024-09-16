@@ -4,7 +4,7 @@
 
 <p/>
 
-<img align="right" alt="coding" width="480" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 
 <hr widht="100%">
