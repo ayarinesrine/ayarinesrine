@@ -4,7 +4,7 @@
 
 <p/>
 
-<img align="right" alt="coding" width="310" src="https://www.shecodes.io/assets/stickers/Coding%20Cat-33a4c846a433857177d26ef9f045782650a52602b8e1bfc1a58058625cf90029.gif">
+<img align="right" alt="coding" width="310" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 
 <hr widht="100%">
