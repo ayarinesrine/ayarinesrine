@@ -150,7 +150,7 @@
     </td>
     <td align="center" >
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA" title="express js" alt="express" height="45"/>
+        <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=2147483647&v=beta&t=sTfwUvcIfW7Fuby7hMluDfuRJK3HfYMMWc2SyZR7-GA" title="express js" alt="express" height="43"/>
       </a>
     </td>
     <td align="center" >
