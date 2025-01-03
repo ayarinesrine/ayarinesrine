@@ -94,8 +94,8 @@
            <img src="https://www.open-mur.com/assets/logo-op.webp" width="60"  height="50"/>
           </a></td>
  
-  <td colspan="10" align="left"> <a href="https://mur-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://mur-mur.fr/wp-content/uploads/2024/09/logo-mur-mur.png" width="60"  height="50"/>
+  <td colspan="10" align="left"> <a href="https://www.structural-metal.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.structural-metal.com/images/logo.webp" width="70"  height="50"/>
           </a></td>
 
 
