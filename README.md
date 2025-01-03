@@ -73,8 +73,8 @@
  <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
     </a>   </td>
-  <td colspan="10" align="left"><a href="https://www.luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://www.luxury-and-cosy.com/assets/Logo.webp" width="40" height="40"/>
+  <td colspan="10" align="left"><a href="https://www.wellton-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://www.wellton-consulting.com/assets/icons/footer-logo.webp" width="70" height="40"/>
     </a></td>
         
 
