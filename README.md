@@ -35,9 +35,7 @@
           </a></td>
 
           
-<td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
-    </a>   </td>
+
            
 
 
@@ -53,25 +51,14 @@
         <td colspan="10" align="left"> <a href="https://www.ab-engineering.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.ab-engineering.fr/assets/logo.webp" width="40" align="center" height="50"/>
           </a></td> 
-          <td colspan="10" align="left"><a href="https://www.luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://www.luxury-and-cosy.com/assets/Logo.webp" width="40" height="40"/>
-    </a></td>
-          <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+            <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="70"  height="35"/>
           </a></td>
-       </tr>
-  <tr>
-        <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
-          </a></td>
+        
+  </tr>
 
- <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.inchaate.com/assets/icons/inchaate-logo.webp" width="60"  height="35"/>
-          </a></td>
-
-  <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.open-mur.com/assets/logo-op.webp" width="60"  height="50"/>
-          </a></td>
+ <tr>
+       
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://global-reno.com/assets/reno-global-logo.webp" width="73" height="28"/>
           </a></td> 
@@ -83,10 +70,39 @@
           </a></td>   
 
 
+ <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
+    </a>   </td>
+  <td colspan="10" align="left"><a href="https://www.luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://www.luxury-and-cosy.com/assets/Logo.webp" width="40" height="40"/>
+    </a></td>
+        
+
+   
+  </tr> 
+
+   <tr>
+        <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
+          </a></td>
+
+ <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.inchaate.com/assets/icons/inchaate-logo.webp" width="60"  height="35"/>
+          </a></td>
+
+  <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.open-mur.com/assets/logo-op.webp" width="60"  height="50"/>
+          </a></td>
+ 
+  <td colspan="10" align="left"> <a href="https://mur-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://mur-mur.fr/wp-content/uploads/2024/09/logo-mur-mur.png" width="60"  height="50"/>
+          </a></td>
+
 
 
    
   </tr> 
+      
  
   
   </table>
