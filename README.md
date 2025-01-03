@@ -35,13 +35,7 @@
           </a></td>
 
           
-
-           
-
-
-
-  </tr>
-   <tr>
+  </tr> <tr>
         <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60"  height="35"/>
           </a></td>
@@ -57,6 +51,12 @@
         
   </tr>
 
+  </table>          
+
+<table style="width:100%" align="left">
+
+
+  
  <tr>
        
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
@@ -78,11 +78,8 @@
     </a></td>
         
 
-   
-  </tr> 
-
-   <tr>
-        <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
+  
+  <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
           </a></td>
 
