@@ -35,7 +35,10 @@
           </a></td>
 
           
-  </tr> <tr>
+  </tr>
+
+  </table>     
+  <table style="width:100%" align="left"> <tr>
         <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60"  height="35"/>
           </a></td>
@@ -49,9 +52,7 @@
            <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="70"  height="35"/>
           </a></td>
         
-  </tr>
-
-  </table>          
+  </tr> </table>   
 
 <table style="width:100%" align="left">
 
