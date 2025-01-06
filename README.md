@@ -95,7 +95,9 @@
            <img src="https://www.structural-metal.com/images/logo.webp" width="70"  height="50"/>
           </a></td>
 
-
+  <td colspan="10" align="left"> <a href="https://mur-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.structural-metal.com/images/logo.webp" width="70"  height="50"/>
+          </a></td>
 
    
   </tr> 
