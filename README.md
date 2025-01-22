@@ -116,7 +116,7 @@
 
 <hr width="100%">
 
-
+ - 👨‍💻 Take a look at some of my skills :
 
 <table style="width:100%" align="center">
 
