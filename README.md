@@ -1,7 +1,7 @@
 
 
   <a >   <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=48CDDC&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
-    <a >"Every end is a new beginning"</a>
+
    
 
 <p/>
@@ -16,6 +16,7 @@
  -  🌱 I'm a cloud computing student learning DevOps
  - 🔭 I’m currently working on <strong style="color:red;">[Wellton](https://www.wellton-consulting.com/)</strong>
  - 📫 How to reach me ayari.nessrine3@gmail.com
+ - "Every end is a new beginning"
  - 👨‍💻 Get a peek at a few of my projects :
 <table style="width:100%" align="left">
 
@@ -38,12 +39,8 @@
            <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="60" height="25"/>
           </a></td>
 
-          
-  </tr>
 
-  </table>     
-  <table style="width:100%" align="left"> <tr>
-        <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
+  <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60"  height="35"/>
           </a></td>
        <td colspan="10" align="left"> <a href="https://ab-pro.fr/" onclick="window.open(this.href, '_blank'); return false;">
@@ -64,13 +61,8 @@
           
 
         
-  </tr> </table>   
-
-<table style="width:100%" align="left">
-
-
-  
- <tr>
+  </tr>   <tr>
+ 
        
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://global-reno.com/assets/reno-global-logo.webp" width="73" height="28"/>
