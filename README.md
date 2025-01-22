@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="320" src="https://res.cloudinary.com/practicaldev/image/fetch/s--7uXrM6C1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jsj8dy2kxbmgio1tegl.gif">
+<img align="left" alt="coding" width="320" src="https://res.cloudinary.com/practicaldev/image/fetch/s--7uXrM6C1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jsj8dy2kxbmgio1tegl.gif">
   <a >   <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=48CDDC&center=true&vCenter=true&lines=Hi+👋%2C+I%27m+Nesrine+Ayari;💻+I%27m+a+Full+stack+developer;" alt="nesrine" /></a>
     <a >"Every end is a new beginning"</a>
    
