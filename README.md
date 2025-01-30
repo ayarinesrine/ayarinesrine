@@ -40,9 +40,7 @@
  <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="60" height="25"/>
           </a></td>
- <td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.eneahome.com/icons/logo.webp" width="60" height="40"/>
-          </a></td>
+
 
 
 
@@ -54,6 +52,12 @@
   <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="70"  height="35"/>
           </a></td>
+
+ <td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.eneahome.com/icons/logo.webp" width="60" height="40"/>
+          </a></td>
+
+          
   <td colspan="10" align="left"> <a href="https://www.ab-engineering.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.ab-engineering.fr/assets/logo.webp" width="40" align="center" height="50"/>
           </a></td> 
