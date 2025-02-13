@@ -60,14 +60,14 @@
            <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60"  height="35"/>
           </a></td>
 
-          
+   <td colspan="10" align="left"> <a href="https://lightslategray-nightingale-538581.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://lightslategray-nightingale-538581.hostingersite.com/assets/icons/logo-footer.webp" width="70"  height="35"/>
+          </a></td>         
   <td colspan="10" align="left"> <a href="https://www.ab-engineering.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.ab-engineering.fr/assets/logo.webp" width="40" align="center" height="50"/>
           </a></td> 
 
-  <td colspan="10" align="left"> <a href="https://lightslategray-nightingale-538581.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://lightslategray-nightingale-538581.hostingersite.com/assets/icons/logo-footer.webp" width="70"  height="35"/>
-          </a></td>
+
 
 <td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.eneahome.com/icons/logo.webp" width="60" height="40"/>
