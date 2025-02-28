@@ -30,11 +30,10 @@
 
 
  
+   <td colspan="10" align="left"> <a href="https://lightslategray-nightingale-538581.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://lightslategray-nightingale-538581.hostingersite.com/assets/icons/logo-footer.webp" width="70"  height="35"/>
+          </a></td>   
 
-     
-<td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40"/>
-          </a></td>
 
  <td colspan="10" align="left"> <a href="https://ab-pro.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://ab-pro.fr/assets/images/logo.webp" width="70"  height="35"/>
@@ -48,10 +47,11 @@
 
 
 
+     
+<td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40"/>
+          </a></td>
 
-   <td colspan="10" align="left"> <a href="https://lightslategray-nightingale-538581.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://lightslategray-nightingale-538581.hostingersite.com/assets/icons/logo-footer.webp" width="70"  height="35"/>
-          </a></td>   
 
 
 
