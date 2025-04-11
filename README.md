@@ -56,14 +56,14 @@
 
 
 
-<td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60"  height="35"/>
-          </a></td>
 
       
 
   <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="70"  height="35"/>
+          </a></td>
+<td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60"  height="35"/>
           </a></td>
 
 
