@@ -114,7 +114,7 @@
           </a></td>
 
   <td colspan="10" align="left"> <a href="https://mur-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://mur-mur.fr/wp-content/uploads/2024/09/LOGO-MUR-MUR-fi_Plan-de-travail-1-copie-480x413.png" width="70"  height="50"/>
+           <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="70"  height="50"/>
           </a></td>
 
    
