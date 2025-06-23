@@ -156,12 +156,12 @@
            <img src="https://www.linkea-consulting.fr/assets/icons/logoWhite.webp" width="60"  height="20"/>
           </a></td>
   
-  <td colspan="10" align="left"> <a href="https://www.structural-metal.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.structural-metal.com/images/logo.webp" width="70"  height="50"/>
+  <td colspan="10" align="left"> <a href="https://pink-antelope-778957.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://pink-antelope-778957.hostingersite.com/assets/logo-luxury&osywhite.webp" width="70"  height="70"/>
           </a></td>
 
-  <td colspan="10" align="left"> <a href="https://mur-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="70"  height="50"/>
+  <td colspan="10" align="left"> <a href="https://ghostwhite-beaver-862090.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://ghostwhite-beaver-862090.hostingersite.com/assets/icons/logo.webp" width="70"  height="50"/>
           </a></td>
  <td colspan="10" align="left"><a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://reno-deco.fr//wp-content/uploads/2023/05/logo-reno-deco_Plan-de-travail-1.png" width="70" height="35"/>
