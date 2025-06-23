@@ -129,7 +129,7 @@
  
        
  <td colspan="10" align="left"> <a href="https://1001-architectures.fr/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://1001-architectures.fr/wp-content/uploads/2023/05/logo-1001.png" width="73" height="28"/>
+        <img src="https://1001-architectures.fr/wp-content/uploads/2023/05/logo-1001.png" width="73" height="30"/>
           </a></td> 
 
   
@@ -143,7 +143,7 @@
         <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60" height="40"/>
     </a>   </td>
   <td colspan="10" align="left"><a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://reno-deco.fr//wp-content/uploads/2023/05/logo-reno-deco_Plan-de-travail-1.png" width="70" height="40"/>
+        <img src="https://reno-deco.fr//wp-content/uploads/2023/05/logo-reno-deco_Plan-de-travail-1.png" width="70" height="35"/>
     </a></td>
         
 
@@ -152,8 +152,8 @@
            <img src="https://limegreen-gaur-694463.hostingersite.com/assets/icons/logo-white.webp" width="70"  height="35"/>
           </a></td>
 
- <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.inchaate.com/assets/icons/inchaate-logo.webp" width="60"  height="35"/>
+ <td colspan="10" align="left"> <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://facilitys-international.fr/assets/images/home/logo.webp" width="60"  height="35"/>
           </a></td>
 
   <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
