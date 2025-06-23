@@ -74,7 +74,58 @@
            <img src="https://www.ab-engineering.fr/assets/logo.webp" width="40" align="center" height="50"/>
           </a></td> 
         
-  </tr>   <tr>
+  </tr>
+  
+   <tr>
+ 
+       
+ <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://global-reno.com/assets/reno-global-logo.webp" width="73" height="28"/>
+          </a></td> 
+
+  
+ 
+  <td colspan="10" align="left"> <a href="https://www.giovanni-juvara.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.giovanni-juvara.com/assets/images/logofooter.webp" width="60" height="40"/>
+          </a></td>   
+
+
+ <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
+    </a>   </td>
+  <td colspan="10" align="left"><a href="https://www.wellton-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://www.wellton-consulting.com/assets/icons/footer-logo.webp" width="70" height="40"/>
+    </a></td>
+        
+
+  
+  <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
+          </a></td>
+
+ <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.inchaate.com/assets/icons/inchaate-logo.webp" width="60"  height="35"/>
+          </a></td>
+
+  <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.open-mur.com/assets/logo-op.webp" width="60"  height="50"/>
+          </a></td>
+ 
+  <td colspan="10" align="left"> <a href="https://www.structural-metal.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.structural-metal.com/images/logo.webp" width="70"  height="50"/>
+          </a></td>
+
+  <td colspan="10" align="left"> <a href="https://mur-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="70"  height="50"/>
+          </a></td>
+
+   
+  </tr> 
+  
+  
+  
+  
+  <tr>
  
        
  <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
