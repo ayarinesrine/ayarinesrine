@@ -149,7 +149,7 @@
 
   
   <td colspan="10" align="left"> <a href="https://limegreen-gaur-694463.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://limegreen-gaur-694463.hostingersite.com/assets/icons/logo.webp" width="70"  height="35"/>
+           <img src="https://limegreen-gaur-694463.hostingersite.com/assets/icons/logo-white.webp" width="70"  height="35"/>
           </a></td>
 
  <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
