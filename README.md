@@ -128,8 +128,8 @@
   <tr>
  
        
- <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://global-reno.com/assets/reno-global-logo.webp" width="73" height="28"/>
+ <td colspan="10" align="left"> <a href="https://1001-architectures.fr/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://1001-architectures.fr/" width="73" height="28"/>
           </a></td> 
 
   
