@@ -142,12 +142,8 @@
  <td colspan="10" align="left"><a href="https://www.renov-en-main.fr/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60" height="40"/>
     </a>   </td>
-  <td colspan="10" align="left"><a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://reno-deco.fr//wp-content/uploads/2023/05/logo-reno-deco_Plan-de-travail-1.png" width="70" height="35"/>
-    </a></td>
-        
 
-  
+        
   <td colspan="10" align="left"> <a href="https://limegreen-gaur-694463.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://limegreen-gaur-694463.hostingersite.com/assets/icons/logo-white.webp" width="70"  height="35"/>
           </a></td>
@@ -156,10 +152,12 @@
            <img src="https://facilitys-international.fr/assets/images/home/logo.webp" width="60"  height="35"/>
           </a></td>
 
-  <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.open-mur.com/assets/logo-op.webp" width="60"  height="50"/>
+  <td colspan="10" align="left"> <a href="https://www.linkea-consulting.fr/ onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.linkea-consulting.fr/assets/icons/logoWhite.webp" width="60"  height="50"/>
           </a></td>
- 
+   <td colspan="10" align="left"><a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://reno-deco.fr//wp-content/uploads/2023/05/logo-reno-deco_Plan-de-travail-1.png" width="70" height="35"/>
+    </a></td>
   <td colspan="10" align="left"> <a href="https://www.structural-metal.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.structural-metal.com/images/logo.webp" width="70"  height="50"/>
           </a></td>
