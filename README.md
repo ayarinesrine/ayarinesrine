@@ -143,7 +143,7 @@
         <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60" height="40"/>
     </a>   </td>
   <td colspan="10" align="left"><a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://reno-deco.fr/wp-content/uploads/2023/05/logoronodeco.jpg" width="70" height="40"/>
+        <img src="https://reno-deco.fr//wp-content/uploads/2023/05/logo-reno-deco_Plan-de-travail-1.png" width="70" height="40"/>
     </a></td>
         
 
