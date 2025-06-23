@@ -134,22 +134,22 @@
 
   
  
-  <td colspan="10" align="left"> <a href="https://www.giovanni-juvara.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.giovanni-juvara.com/assets/images/logofooter.webp" width="60" height="40"/>
+  <td colspan="10" align="left"> <a href="https://www.spacy-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.spacy-and-cosy.com/Images/spacy-and-cosy-logo.webp" width="60" height="40"/>
           </a></td>   
 
 
- <td colspan="10" align="left"><a href="https://agexis.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://agexis.com/assets/icons/logo-agex.webp" width="60" height="40"/>
+ <td colspan="10" align="left"><a href="https://www.renov-en-main.fr/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60" height="40"/>
     </a>   </td>
-  <td colspan="10" align="left"><a href="https://www.wellton-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://www.wellton-consulting.com/assets/icons/footer-logo.webp" width="70" height="40"/>
+  <td colspan="10" align="left"><a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
+        <img src="https://reno-deco.fr/wp-content/uploads/2023/05/logoronodeco.jpg" width="70" height="40"/>
     </a></td>
         
 
   
-  <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="70"  height="35"/>
+  <td colspan="10" align="left"> <a href="https://limegreen-gaur-694463.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://limegreen-gaur-694463.hostingersite.com/assets/icons/logo.webp" width="70"  height="35"/>
           </a></td>
 
  <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
