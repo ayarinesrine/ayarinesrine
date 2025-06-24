@@ -157,7 +157,7 @@
           </a></td>
   
   <td colspan="10" align="left"> <a href="https://pink-antelope-778957.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://pink-antelope-778957.hostingersite.com/assets/logo-luxury&osywhite.webp" width="50"  height="50"/>
+           <img src="https://pink-antelope-778957.hostingersite.com/assets/logo-luxury&osywhite.webp" width="40"  height="40"/>
           </a></td>
 
   <td colspan="10" align="left"> <a href="https://ghostwhite-beaver-862090.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
