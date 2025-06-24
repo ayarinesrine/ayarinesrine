@@ -157,11 +157,11 @@
           </a></td>
   
   <td colspan="10" align="left"> <a href="https://pink-antelope-778957.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://pink-antelope-778957.hostingersite.com/assets/logo-luxury&osywhite.webp" width="60"  height="60"/>
+           <img src="https://pink-antelope-778957.hostingersite.com/assets/logo-luxury&osywhite.webp" width="50"  height="50"/>
           </a></td>
 
   <td colspan="10" align="left"> <a href="https://ghostwhite-beaver-862090.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://ghostwhite-beaver-862090.hostingersite.com/assets/icons/logo.webp" width="70"  height="50"/>
+           <img src="https://ghostwhite-beaver-862090.hostingersite.com/assets/icons/logo.webp" width="70"  height="40"/>
           </a></td>
  <td colspan="10" align="left"><a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
         <img src="https://reno-deco.fr//wp-content/uploads/2023/05/logo-reno-deco_Plan-de-travail-1.png" width="70" height="35"/>
