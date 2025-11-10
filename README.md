@@ -164,7 +164,7 @@
            <img src="https://ghostwhite-beaver-862090.hostingersite.com/assets/icons/logo.webp" width="70"  height="30"/>
           </a></td>
  <td colspan="10" align="left"><a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://reno-deco.fr//wp-content/uploads/2023/05/logo-reno-deco_Plan-de-travail-1.png" width="70" height="35"/>
+        <img src="https://reno-deco.fr/assets/icons/logo.webp" width="70" height="35"/>
     </a></td>
    
   </tr> 
