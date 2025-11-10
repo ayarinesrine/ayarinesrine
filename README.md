@@ -144,8 +144,8 @@
     </a>   </td>
 
         
-  <td colspan="10" align="left"> <a href="https://limegreen-gaur-694463.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://limegreen-gaur-694463.hostingersite.com/assets/icons/logo-white.webp" width="70"  height="35"/>
+  <td colspan="10" align="left"> <a href="https://www.inchaate.fr" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://inchaate.fr/assets/icons/inchaate-logo.webp" width="70"  height="35"/>
           </a></td>
 
  <td colspan="10" align="left"> <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
