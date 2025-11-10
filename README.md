@@ -104,7 +104,7 @@
           </a></td>
 
  <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.inchaate.com/assets/icons/inchaate-logo.webp" width="60"  height="35"/>
+           <img src="https://www.inchaate.com/assets/icons/logo.webp" width="60"  height="35"/>
           </a></td>
 
   <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
