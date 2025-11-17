@@ -7,8 +7,6 @@
 <p/>
 
 
-
-
 <hr widht="100%">
 
 
@@ -21,8 +19,6 @@
 <table style="width:100%" align="left">
 
  <tr>
-
-
 
 
  <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
