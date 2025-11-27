@@ -125,7 +125,7 @@
  
        
  <td colspan="10" align="left"> <a href="https://1001-architectures.fr/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://1001-architectures.fr/wp-content/uploads/2023/05/logo-1001.png" width="73" height="30"/>
+        <img src="https://1001-architectures.com/assets/icons/logo.webp" width="73" height="30"/>
           </a></td> 
 
   
